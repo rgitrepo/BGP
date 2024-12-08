@@ -4,6 +4,9 @@
 <details>
 <summary>5. Path Attributes</summary>
 
-- [BGP Path Attributes](docs/networking-fundamentals/bgp-path-attributes.md)
-- - [BGP Path Attributes](docs/networking-fundamentals/bgp-path-attributes.md)
+- [Path Attribute Usage](docs/5-path-attributes/path-attributes.md)
+- - [5.1.1. ORIGIN](docs/5-path-attributes/origin.md)
+- - [5.1.2. AS_PATH](docs/5-path-attributes/as-path.md)
+- - [5.1.3. AS_NEXT_HOP)](docs/5-path-attributes/next-hop.md)
+
 
