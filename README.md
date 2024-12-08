@@ -2,7 +2,7 @@
 ### Table of Contents
 
 <details>
-<summary>[5. Path Attributes](docs/5-path-attributes/path-attributes.md)</summary>
+<summary>- [5. Path Attributes](docs/5-path-attributes/path-attributes.md)</summary>
 
 - [Path Attribute Usage](docs/5-path-attributes/path-attributes.md)
   - [5.1 ORIGIN](docs/5-path-attributes/origin.md)
