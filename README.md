@@ -1,5 +1,5 @@
 # BGP
-BGP Routing Protocol
+### Table of Contents
 
 <details>
 <summary>5. Path Attributes</summary>
