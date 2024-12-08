@@ -2,11 +2,12 @@
 ### Table of Contents
 
 <details>
-<summary>- [5. Path Attributes](docs/5-path-attributes/path-attributes.md)</summary>
+<summary> 5. Path Attributes</summary>
 
-- [Path Attribute Usage](docs/5-path-attributes/path-attributes.md)
-  - [5.1 ORIGIN](docs/5-path-attributes/origin.md)
-  - [5.2 AS_PATH](docs/5-path-attributes/as-path.md)
-  - [5.3 NEXT_HOP](docs/5-path-attributes/5.3-next-hop.md)
+- [Path Attributes](docs/5-path-attributes/5-path-attributes.md)
+  - [5.1 Path Attribute Usage](docs/5-path-attributes/path-attribute-usage.md)
+    - [5.1 ORIGIN](docs/5-path-attributes/origin.md)
+    - [5.2 AS_PATH](docs/5-path-attributes/as-path.md)
+    - [5.3 NEXT_HOP](docs/5-path-attributes/5.3-next-hop.md)
 
 
