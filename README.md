@@ -11,5 +11,6 @@
     - [5.3 NEXT_HOP](docs/5-path-attributes/5.3-next-hop.md)
     - [5.4 MULTI_EXIT_DISC](docs/5-path-attributes/5.4-multi-exit-disc.md)
     - [5.5 LOCAL_PREF](docs/5-path-attributes/5.5-local-pref.md)
+    - [5.6 ATOMIC_AGGREGATE](docs/5-path-attributes/5.6-atomic-aggregate.md)
 
 
