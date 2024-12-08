@@ -5,7 +5,7 @@
 <summary> 5. Path Attributes</summary>
 
 - [Path Attributes](docs/5-path-attributes/5-path-attributes.md)
-  - [5.1 Path Attribute Usage](docs/5-path-attributes/path-attribute-usage.md)
+  - [5.1 Path Attribute Usage](docs/5-path-attributes/5.0-path-attribute-usage.md)
     - [5.1 ORIGIN](docs/5-path-attributes/5.1-origin.md)
     - [5.2 AS_PATH](docs/5-path-attributes/as-path.md)
     - [5.3 NEXT_HOP](docs/5-path-attributes/5.3-next-hop.md)
